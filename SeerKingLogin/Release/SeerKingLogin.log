@@ -1,0 +1,21 @@
+﻿  MiniSeer.cpp
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\resource.h(57,1): warning C4005: “IDC_HELP”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10643): message : 参见“IDC_HELP”的前一个定义
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(495,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(529,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(564,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(569,32): warning C4244: “参数”: 从“float”转换到“long”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(570,37): warning C4244: “参数”: 从“float”转换到“long”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(571,33): warning C4244: “参数”: 从“float”转换到“long”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(572,29): warning C4244: “参数”: 从“float”转换到“long”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(574,45): warning C4244: “参数”: 从“float”转换到“long”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(575,29): warning C4244: “参数”: 从“float”转换到“long”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(577,92): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(577,68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\项目\正向\MiniSeer\MiniSeer\SeerKingLogin\MiniSeer.cpp(731,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  7 of 988 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SeerKingLogin.vcxproj -> D:\项目\正向\MiniSeer\MiniSeer\Release\MiniSeer.exe
